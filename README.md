@@ -40,6 +40,9 @@ Open your browser and navigate to:
 https://localhost:4200
 ```
 
+![transcendence](https://github.com/user-attachments/assets/988affb1-f9f9-4fd9-aab5-4f084ab9c479)
+
+
 ### 🔎 Monitoring with Grafana (only available on Linux)
 
 `ft_transcendence` integrates **Grafana** for real-time monitoring and analytics of the application. You can track system performance, user activity, server status, and other metrics in an intuitive dashboard.
